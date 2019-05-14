@@ -1,0 +1,4 @@
+Session.vim
+*.pyc
+__pycache__
+*.swp
